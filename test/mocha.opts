@@ -1,0 +1,4 @@
+--ui bdd
+--compilers coffee:coffee-script
+--reporter spec
+-t 5000
